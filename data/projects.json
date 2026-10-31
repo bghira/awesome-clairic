@@ -141,6 +141,30 @@
       "added": "2026-10-26",
       "created": "2026-10-25",
       "pushed": "2026-10-25"
+    },
+    {
+      "name": "claric-test",
+      "repo": "pniessen/claric-test",
+      "site": null,
+      "description": "Benchmark of Cloudflare Clairic vs Claude Haiku on data extraction from receipts, health plans and contracts",
+      "category": "research",
+      "language": "Python",
+      "stars": 0,
+      "added": "2026-10-31",
+      "created": "2026-10-24",
+      "pushed": "2026-10-24"
+    },
+    {
+      "name": "email2order-clairic",
+      "repo": "mpegram3rd/email2order-clairic",
+      "site": null,
+      "description": "A contrived Email to Order example using Cloudflare's Clairic Extraction AI with a synthetic email corpus",
+      "category": "apps",
+      "language": "Python",
+      "stars": 0,
+      "added": "2026-10-31",
+      "created": "2026-10-24",
+      "pushed": "2026-10-26"
     }
   ]
 }
